@@ -1,3 +1,8 @@
+> 阿里团队成员可访问云效
+> https://codeup.aliyun.com/5fffbfbe8b748ad647e4c37d/repo_2021-02-01_2021020100577230/tree/master/
+> 讲解与演示视频7日内可下载
+>https://space.dingtalk.com/s/gwHOAqVMuwLODE2w4APaACA1YmY2Y2MyOWU4YjA0YzMzOWEyMTJhY2VlOGI2ZGVhNA 密码: GLbF
+
 ![Top](./slide.png)
 ## 目录说明
 - Rax_kizunaAI：小程序本体（界面图片资源存放于APIServer）；
